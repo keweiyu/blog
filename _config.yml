@@ -25,14 +25,14 @@ nav:
     url: /contact.html
     icon: icon-user
     class: none
+  - text: Linkedin
+    url: http://www.linkedin.com/in/keweiyu
+    icon: icon-linkedin
+    class: none
   - text: Github
     url: https://github.com/keweiyu
     icon: icon-github
     class: none
-#  - text: Linkedin
-#    url: http://cn.linkedin.com/in/chaominchen
-#    icon: icon-linkedin
-#    class: none
   # - text: 联系我
   #   url: http://www.zhanxin.info/contact.html
   #   icon: icon-heart
