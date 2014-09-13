@@ -5,10 +5,10 @@ paginate: 10
 safe: false
 
 #站点基础配置
-title: i CCM
-subTitle: Always Curious.
+title: Kewei's whereabouts
+subTitle: Vim Kewei.c
 description: 
-url: http://iccm.cc
+url: http://keweihk.com
 feed: /atom.xml
 
 #菜单配置
@@ -51,11 +51,11 @@ page:
   #   url: /links.html
   #   last: true
   - text: Linkedin
-    url: http://cn.linkedin.com/in/chaominchen
+    url: http://cn.linkedin.com/
     icon: icon-linkedin
     class: none
   - text: Github
-    url: https://github.com/ccmien
+    url: https://github.com/keweiyu
     icon: icon-github
     class: none
 #评论信息
@@ -64,7 +64,7 @@ disqus:
   id: m
 duoshuo:
   config: true
-  id: iccm
+  id: keweiyu
 
 author:
-  name: CCM
+  name: Kewei Yu
