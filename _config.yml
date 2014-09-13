@@ -6,8 +6,8 @@ safe: false
 
 #站点基础配置
 title: Kewei's whereabouts
-subTitle: Vim Kewei.c
-description: 如鱼得水
+subTitle: Time is passing
+description: Welcome to my blog ^_^
 url: http://keweihk.com
 feed: /atom.xml
 
@@ -46,9 +46,9 @@ page:
   - text: Google
     url: http://www.gfsoso.com/
     last: true
-  # - text: 喜欢的网站
-  #   url: /links.html
-  #   last: true
+  - text: Weibo
+    url: http://weibo.com/yukeweicom
+    last: true
 #  - text: Linkedin
 #    url: http://cn.linkedin.com/
 #    icon: icon-linkedin

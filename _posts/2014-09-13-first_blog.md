@@ -5,9 +5,9 @@ layout: post
 permalink: /first_blog/
 duoshuo_thread_id:
   - 1235579490248163329
-views:
-  - 0
 post_views_count:
+  - 1
+views:
   - 0
 categories:
   - 杂文
